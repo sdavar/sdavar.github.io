@@ -9,23 +9,22 @@ redirect_from:
 
 
 
-Hi! I'm **Somayeh Davar**, a PhD Candidate in Computer Science at **Concordia University**, working in the Deep Learning for Medical Image Processing Lab under the supervision of Prof. Thomas Fevens.
+Hi! I'm **Somayeh Davar**, a PhD Candidate in Computer Science at **Concordia University**, working in the Deep Learning for Medical Image Processing Lab under the supervision of Prof. Thomas Fevens. I previously completed my Master's degree from the Concordia Institute for Information Systems Engineering, where I worked as a Research Assistant under the supervision of Prof. Arash Mohammadi in the Intelligent Signal and Information Processing (I-SIP) Lab. 
 
-My research focuses on **medical image analysis, computer vision, weakly supervised learning, and foundation-model-inspired AI** for healthcare applications. I develop data-efficient deep learning methods for brain tumor localization and segmentation in MRI.
+During the summer of 2024, I undertook a visiting research position at the CREATIS Lab, Biomedical Imaging Research Lab in France, where I had an opportunity to work with Prof. Thomas Grenier and the research team in CREATIS. As part of my doctoral training, I am enrolled in the NSERC-CREATE Surgical Innovation Program at McGill University.
 
-My work has been published in venues including **IEEE TCAS-II**, **SPIE Medical Imaging**, **WiML @ ICML**, **WiCV @ ICCV**, **ISCAS**, **MWSCAS**, and **ICASSP**.
+My research focuses on **medical image analysis, computer vision, weakly supervised learning, and foundation-model-inspired AI** for healthcare applications. I develop data-efficient deep learning methods for brain tumor localization and segmentation in MRI. My work has been published in venues including **IEEE Transaction**, **SPIE Medical Imaging**, **ICCV**, **ISCAS**, **NeurIPS** **ICML**, **MWSCAS**, and **ICASSP**.
 
 I am particularly interested in developing trustworthy and clinically deployable AI systems that can learn from limited supervision, integrate visual and clinical information, and support real-world medical decision-making.
 
-## Research Highlights
+## Highlights
 
 * FRQNT Doctoral Scholarship Recipient
 * RBC Borealis AI Fellowship Recipient
-* Visiting Research Scholar, CREATIS Laboratory (France)
-* IEEE TCAS-II Journal Publication (2025)
-* Accepted papers at WiML @ ICML 2026, SPIE Medical Imaging 2026, and MWSCAS 2026
-
-## Research Areas
+* Visiting Research Scholar @ CREATIS Laboratory (France) <a href="{{ https://www.creatis.insa-lyon.fr/site/fr }}"> CREATIS </a>.</div> {% endif %}
+* Research Colaborator with Gruppo Otologico ENT Center (Italy) <a href="{{ https://gruppootologico.com/en/
+ }}"> Gruppo Otologico </a>.</div> {% endif %}
+## Research Interests
 
 * Medical Image Analysis
 * Computer Vision
@@ -35,13 +34,6 @@ I am particularly interested in developing trustworthy and clinically deployable
 * Trustworthy AI
 * Clinical AI
 
-## Featured Research Projects
 
-1. Brain MRI Tumor Localization and Segmentation using R-CNN (MWSCAS 2024)
-2. Brain MRI Tumor Localization using Modified U-Net (WiML @ NeurIPS 2024)
-3. Attention-Enhanced U-Net using YOLOv3 (IEEE TCAS-II 2025)
-4. Memristive Implementation of Variable Pixel MRI Imaging (ISCAS 2025)
-5. Attention U-Net Segmentation Framework (WiCV @ ICCV 2025)
-6. Enhanced Brain MRI Tumor Localization and Segmentation using YOLOv8 (SPIE Medical Imaging 2026)
 7. Text-Guided Semantic Segmentation using YOLOv11 (WiML @ ICML 2026)
 8. Detection-Guided Brain Tumor Segmentation using YOLOv11 (MWSCAS 2026)
