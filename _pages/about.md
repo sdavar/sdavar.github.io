@@ -19,8 +19,10 @@ I am particularly interested in developing trustworthy and clinically deployable
 
 ## Highlights
 
-* FRQNT Doctoral Scholarship Recipient 
-* RBC Borealis AI Fellowship Recipient
+* FRQNT Doctoral Scholarship Recipient (2023) 
+* RBC Borealis AI Fellowship Recipient (2025)
+* Mitacs Globalink Research Award (2024)
+* Quebec Mobility Award Recipient (2024)  
 * Visiting Research Scholar @ CREATIS Laboratory (France) <div class="wordwrap">  <a href="{{ [https://scholar.google.com/citations](https://www.creatis.insa-lyon.fr/site/fr)?user=XKDspPcAAAAJ&hl=en}}"> CREATIS </a>.</div>
 * Research Colaborator with Gruppo Otologico ENT Center (Italy) <a href="{{ https://gruppootologico.com/en/
  }}"> Gruppo Otologico</a>.</div>
