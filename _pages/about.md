@@ -21,9 +21,10 @@ I am particularly interested in developing trustworthy and clinically deployable
 
 * FRQNT Doctoral Scholarship Recipient
 * RBC Borealis AI Fellowship Recipient
-* Visiting Research Scholar @ CREATIS Laboratory (France) <a href="{{ https://www.creatis.insa-lyon.fr/site/fr }}"> CREATIS </a>.</div> {% endif %}
+* Visiting Research Scholar @ CREATIS Laboratory (France) <a href="{{ https://www.creatis.insa-lyon.fr/site/fr }}"> CREATIS </a>.</div> 
 * Research Colaborator with Gruppo Otologico ENT Center (Italy) <a href="{{ https://gruppootologico.com/en/
- }}"> Gruppo Otologico </a>.</div> {% endif %}
+ }}"> Gruppo Otologico </a>.</div>
+
 ## Research Interests
 
 * Medical Image Analysis
