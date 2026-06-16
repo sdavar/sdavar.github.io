@@ -19,13 +19,54 @@ I am particularly interested in developing trustworthy and clinically deployable
 
 ## Highlights
 
-* FRQNT Doctoral Scholarship Recipient (2023) 
-* RBC Borealis AI Fellowship Recipient (2025)
-* Mitacs Globalink Research Award (2024)
-* Quebec Mobility Award Recipient (2024)  
-* Visiting Research Scholar @ CREATIS Laboratory (France) <div class="wordwrap">  <a href="{{ [https://scholar.google.com/citations](https://www.creatis.insa-lyon.fr/site/fr)?user=XKDspPcAAAAJ&hl=en}}"> CREATIS </a>.</div>
-* Research Colaborator with Gruppo Otologico ENT Center (Italy) <a href="{{ https://gruppootologico.com/en/
- }}"> Gruppo Otologico</a>.</div>
+<li>
+🌍 RBC 
+<a href=" https://rbcborealis.com/news/the-2024-2025-rbc-borealis-fellows-driving-the-future-of-ai/" target="_blank">
+RBC Borealis AI Fellowship Recipient (2025)
+</a>
+</li> 
+
+<li>
+🌍 Dr. T. Radhakrishnan
+<a href="https://www.concordia.ca/gradstudies/funding/in-program/donor-awards.html" target="_blank">
+In-Course Graduate Award (2025)
+</a>
+</li> 
+
+<li>
+🌍 Mitacs 
+<a href="https://www.mitacs.ca/our-programs/globalink-research-award-students-postdocs/https:/www.mitacs.ca/our-programs/globalink-research-award-students-postdocs/ " target="_blank">
+Globalink Research Award (2024)
+</a>
+</li> 
+
+<li>
+🌍 Quebec 
+<a href="https://www.quebec.ca/en/education/student-financial-assistance/outside-quebec/international-mobility-program " target="_blank">
+Mobility Award Recipient (2024)
+</a>
+</li>
+
+<li>
+🌍 FRQNT 
+<a href="https://doi.org/10.69777/332718 " target="_blank">
+Doctoral Scholarship Recipient (2023) 
+</a>
+</li>
+
+<li>
+🌍 Visiting Research Scholar at
+<a href="https://www.creatis.insa-lyon.fr/site/fr" target="_blank">
+CREATIS Laboratory (France)
+</a>
+</li>
+
+<li>
+🌍 Research Collaborator with
+<a href="https://gruppootologico.com/en/" target="_blank">
+Gruppo Otologico ENT Center (Italy)
+</a>
+</li>
 
 ## Research Interests
 
