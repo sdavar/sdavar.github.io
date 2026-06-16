@@ -6,31 +6,46 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
+  <div class="wordwrap">You can also find my articles on <a href="{{ https://scholar.google.com/citations?user=XKDspPcAAAAJ&hl=en}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
 
+# Publications
 
+## Journal Publications
+
+1. **S. Davar** and T. Fevens, *“Enhanced U-Net Architecture for Brain Tumor Localization & Segmentation in T1-weighted MRI”*, IEEE Transactions on Circuits and Systems II: Express Briefs (IF: 4.9), Vol. 72, No. 8, pp. 3993–3997, Aug. 2025.
+
+2. **S. Davar** and T. Fevens, *“A Novel Approach for Selecting Effective Threshold Values in Ternary State Estimation Using Particle Swarm Optimization”*, Applied Sciences (IF: 2.7), Vol. 12, No. 21, Article 10693, 2022.
+
+3. A. Mohammadi, **S. Davar**, and K. N. Plataniotis, *“Ternary Event-based State Estimation with Joint Point, Quantized, and Set-valued Measurements”*, IEEE Signal Processing Letters (IF: 4.067), Vol. 25, No. 5, pp. 665–669, May 2018.
+
+## Book Chapter
+
+1. S. M. Mirjalili, **S. Davar**, N. Khodadadi, and S. Mirjalili, *“Design Optimization of Photonic Crystal Filter Using Moth-Flame Optimization Algorithm”*, in Handbook of Moth-Flame Optimization Algorithm, pp. 313–322, 2022.
+
+## Conference Papers
+
+1. **S. Davar** and T. Fevens, *“Detection-Guided Bounding-Box Attention U-Net for Lightweight Brain Tumor Segmentation in MRI”*, Accepted at IEEE MWSCAS 2026, Cincinnati, Ohio, USA, Aug. 9–12, 2026.
+
+2. **S. Davar** and T. Fevens, *“Text-Guided ROI Refinement for Semantic Brain Tumor Segmentation in MRI”*, Accepted at Women in Machine Learning (WiML) Symposium @ ICML 2026, Seoul, South Korea, Jul. 2026.
+
+3. **S. Davar** and T. Fevens, *“Hybrid Deep Learning Approach for Brain Tumor Analysis in MRI: From Detection to Delineation”*, SPIE Medical Imaging 2026, Vancouver, Canada.
+
+4. **S. Davar** and T. Fevens, *“Improved U-Net-Based Approach for Brain Tumor Segmentation in T1-Weighted MRI”*, WiCV Workshop at ICCV 2025, Honolulu, Hawaii, USA.
+
+5. A. Gopi, **S. Davar**, V. V. Nair, A. Kabeer, T. Fevens, and A. James, *“Memristive Implementation of Variable Pixel MRI Imaging Using Skywater 130nm PDK”*, IEEE ISCAS 2025, London, United Kingdom.
+
+6. **S. Davar** and T. Fevens, *“Automated Localization and Segmentation of Brain Tumors Using Attention-Enhanced U-Net”*, WiML Workshop at NeurIPS 2024, Vancouver, Canada.
+
+7. **S. Davar** and T. Fevens, *“Brain MRI Tumour Localization and Segmentation Through Deep Learning”*, IEEE MWSCAS 2024, Springfield, Massachusetts, USA, pp. 782–786.
+
+8. **S. Davar** and A. Mohammadi, *“Designing Optimal Thresholds for Ternary Event-based State Estimation via Multi-Objective Particle Swarm Optimizer”*, IEEE MWSCAS 2018, Windsor, Ontario, Canada, pp. 1146–1149.
+
+9. **S. Davar**, A. Mohammadi, and K. N. Plataniotis, *“Event-Triggered Particle Filtering via Diffusion Strategies for Distributed Estimation in Autonomous Systems”*, IEEE ICASSP 2018, Calgary, Alberta, Canada, pp. 6578–6582.
+
+10. D. Blizzard, **S. Davar**, and A. Mohammadi, *“Real-Time and Event-Triggered Object Detection, Recognition, and Tracking”*, IEEE MWSCAS 2017, Boston, Massachusetts, USA, pp. 1589–1592.
+
+11. **S. Davar** and A. Mohammadi, *“Event-based Particle Filtering with Point and Set-Valued Measurements”*, EUSIPCO 2017, Kos, Greece, pp. 221–225.
+
+12. **S. Davar** and A. Mohammadi, *“Multi-Sensor and Information-Based Event-Triggered Distributed Estimation”*, IEEE DCOSS 2017, Ottawa, Canada, pp. 130–133.
