@@ -13,16 +13,16 @@ main:
   
   - title: "Research"
     url: /portfolio/   
+    
+  - title: "Awards & Honors"
+    url: /Awards & Honors/ 
 
   - title: "Teaching"
-    url: /teaching/    
-  
+    url: /teaching/  
+       
   - title: "Service"
     url: /service/ 
     
-  - title: "Talks"
-    url: /talks/
-        
   - title: "CV"
     url: /cv/
     
