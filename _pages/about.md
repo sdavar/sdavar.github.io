@@ -20,7 +20,7 @@ I am particularly interested in developing trustworthy and clinically deployable
 
 🏆 RBC Borealis AI Fellowship Recipient (2025) <a href="https://rbcborealis.com/news/the-2024-2025-rbc-borealis-fellows-driving-the-future-of-ai/" target="_blank"> Details </a> 
 
-🎓 Dr. T. Radhakrishnan In-Course Graduate Award (2025) <a href="https://www.concordia.ca/gradstudies/funding/in-program/donor-awards.html" target="_blank"> Details </a>  
+🎓 Dr. T. Radhakrishnan In-Course Award (2025) <a href="https://www.concordia.ca/gradstudies/funding/in-program/donor-awards.html" target="_blank"> Details </a>  
 
 🌍 Mitacs Globalink Research Award (2024) <a href="https://www.mitacs.ca/our-programs/globalink-research-award-students-postdocs/https:/www.mitacs.ca/our-programs/globalink-research-award-students-postdocs/ " target="_blank"> Details </a>   
 
