@@ -18,26 +18,20 @@ I am particularly interested in developing trustworthy and clinically deployable
 
 ## Highlights
 
- 🏆 <a href=" https://rbcborealis.com/news/the-2024-2025-rbc-borealis-fellows-driving-the-future-of-ai/" target="_blank"> RBC Borealis AI Fellowship Recipient (2025)</a> 
+ 🏆 RBC Borealis AI Fellowship Recipient (2025) <a href=" https://rbcborealis.com/news/the-2024-2025-rbc-borealis-fellows-driving-the-future-of-ai/" target="_blank"> Details </a> 
 
-<li>🎓 <a href="https://www.concordia.ca/gradstudies/funding/in-program/donor-awards.html" target="_blank">
-Dr. T. Radhakrishnan In-Course Graduate Award (2025)</a></li> 
+ 🎓 Dr. T. Radhakrishnan In-Course Graduate Award (2025) <a href="https://www.concordia.ca/gradstudies/funding/in-program/donor-awards.html" target="_blank"> Details </a>  
 
-<li>🌍 <a href="https://www.mitacs.ca/our-programs/globalink-research-award-students-postdocs/https:/www.mitacs.ca/our-programs/globalink-research-award-students-postdocs/ " target="_blank">
-Mitacs Globalink Research Award (2024)</a></li> 
+ 🌍 Mitacs Globalink Research Award (2024) <a href="https://www.mitacs.ca/our-programs/globalink-research-award-students-postdocs/https:/www.mitacs.ca/our-programs/globalink-research-award-students-postdocs/ " target="_blank"> Details </a>   
 
-<li> ✈️ <a href="https://www.quebec.ca/en/education/student-financial-assistance/outside-quebec/international-mobility-program " target="_blank"> 
-Quebec Mobility Award Recipient (2024)</a></li>
+  ✈️ Quebec Mobility Award Recipient (2024) <a href="https://www.quebec.ca/en/education/student-financial-assistance/outside-quebec/international-mobility-program " target="_blank"> Details </a>
 
-<li>🏅 <a href="https://doi.org/10.69777/332718 " target="_blank">
-FRQNT Doctoral Scholarship Recipient (2023)</a></li>
+ 🏅 FRQNT Doctoral Scholarship Recipient (2023) <a href="https://doi.org/10.69777/332718 " target="_blank"> Details </a>
 
-<li>🔬 
-<a href="https://www.creatis.insa-lyon.fr/site/fr" target="_blank">
-Visiting Research Scholar at CREATIS Laboratory (France)</a></li>
+ 🔬 Visiting Research Scholar at CREATIS Laboratory (France) <a href="https://www.creatis.insa-lyon.fr/site/fr" target="_blank"> Details </a>
 
-<li>🤝 <a href="https://gruppootologico.com/en/" target="_blank">
-Research Collaborator with Gruppo Otologico ENT Center (Italy)</a></li>
+🤝 Research Collaborator with Gruppo Otologico ENT Center (Italy) <a href="https://gruppootologico.com/en/" target="_blank">
+target="_blank"> Details </a>
 
  
 ## Research Interests
