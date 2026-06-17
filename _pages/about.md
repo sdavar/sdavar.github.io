@@ -18,7 +18,7 @@ I am particularly interested in developing trustworthy and clinically deployable
 
 ## Highlights
 
- 🏆 RBC Borealis AI Fellowship Recipient (2025) <a href=" https://rbcborealis.com/news/the-2024-2025-rbc-borealis-fellows-driving-the-future-of-ai/" target="_blank"> Details </a> 
+ 🏆 RBC Borealis AI Fellowship Recipient (2025) <a href="https://rbcborealis.com/news/the-2024-2025-rbc-borealis-fellows-driving-the-future-of-ai/" target="_blank"> Details </a> 
 
  🎓 Dr. T. Radhakrishnan In-Course Graduate Award (2025) <a href="https://www.concordia.ca/gradstudies/funding/in-program/donor-awards.html" target="_blank"> Details </a>  
 
@@ -30,7 +30,7 @@ I am particularly interested in developing trustworthy and clinically deployable
 
  🔬 Visiting Research Scholar at CREATIS Laboratory (France) <a href="https://www.creatis.insa-lyon.fr/site/fr" target="_blank"> Details </a>
 
-🤝 Research Collaborator with Gruppo Otologico ENT Center (Italy) <a href="https://gruppootologico.com/en/" target="_blank">
+🤝 Research Collaborator with Gruppo Otologico ENT Center (Italy) <a href="https://gruppootologico.com/en/" target="_blank"
 target="_blank"> Details </a>
 
  
