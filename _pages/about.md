@@ -30,7 +30,7 @@ I am particularly interested in developing trustworthy and clinically deployable
 
 🔬 Visiting Research Scholar at CREATIS Laboratory (France) <a href="https://www.creatis.insa-lyon.fr/site/fr" target="_blank"> Details </a>
 
-🤝 Research Collaborator with Gruppo Otologico ENT Center (Italy) <a href="https://gruppootologico.com/en/" target="_blank"
+🤝 Research Collaborator with Gruppo Otologico (Italy) <a href="https://gruppootologico.com/en/" target="_blank"
 target="_blank"> Details </a>
 
  
