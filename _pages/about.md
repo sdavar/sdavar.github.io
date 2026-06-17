@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 
-
-Hi! I'm **Somayeh Davar**, a PhD Candidate in Computer Science at **Concordia University**, working in the Deep Learning for Medical Image Processing Lab under the supervision of Prof. Thomas Fevens. I previously completed my Master's degree from the Concordia Institute for Information Systems Engineering, where I worked as a Research Assistant under the supervision of Prof. Arash Mohammadi in the Intelligent Signal and Information Processing (I-SIP) Lab. 
+Hi! I'm **Somayeh Davar**, a PhD Candidate in Computer Science at **Concordia University**, working in the Deep Learning for Medical Image Processing Lab under the supervision of Prof. Thomas Fevens. I previously completed my Master's degree from the Concordia Institute for Information Systems Engineering, where I worked under the supervision of Prof. Arash Mohammadi in the Intelligent Signal and Information Processing (I-SIP) Lab. 
 
 During the summer of 2024, I undertook a visiting research position at the CREATIS Lab, Biomedical Imaging Research Lab in France, where I had an opportunity to work with Prof. Thomas Grenier and the research team in CREATIS. As part of my doctoral training, I am enrolled in the NSERC-CREATE Surgical Innovation Program at McGill University.
 
@@ -19,7 +18,7 @@ I am particularly interested in developing trustworthy and clinically deployable
 
 ## Highlights
 
-<li>🏆 <a href=" https://rbcborealis.com/news/the-2024-2025-rbc-borealis-fellows-driving-the-future-of-ai/" target="_blank"> RBC Borealis AI Fellowship Recipient (2025)</a></li> 
+ 🏆 <a href=" https://rbcborealis.com/news/the-2024-2025-rbc-borealis-fellows-driving-the-future-of-ai/" target="_blank"> RBC Borealis AI Fellowship Recipient (2025)</a> 
 
 <li>🎓 <a href="https://www.concordia.ca/gradstudies/funding/in-program/donor-awards.html" target="_blank">
 Dr. T. Radhakrishnan In-Course Graduate Award (2025)</a></li> 
